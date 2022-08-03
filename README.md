@@ -1,28 +1,28 @@
 ﻿This repository contains the data and classification algorithms used and
-developed for the article Hooge, I.T.C., Niehorster, D.C., Nyström, M.,
-Andersson, R. & Hessels, R.S. (in press). Fixation classification: how to merge
-and select fixation candidates. Behavior Research Methods. For each of the algorithms in the
+developed for the article [Hooge, I.T.C., Niehorster, D.C., Nyström, M.,
+Andersson, R. & Hessels, R.S. (2022). Fixation classification: how to merge
+and select fixation candidates. Behavior Research Methods. https://doi.org/10.3758/s13428-021-01723-1](https://doi.org/10.3758/s13428-021-01723-1). For each of the algorithms in the
 _classification algorithms_ directory, a file showing example use is included
 in the same directory. Run the file called run* to test run the algorithm.
 
 When using the classification algorithms or eye-tracking data in this
-repository in your work, please cite the Hooge et al. (in press) paper.
+repository in your work, please cite the Hooge et al. (2022) paper.
 
 Each of the algorithms has been modified by us. Therefore, if you use one of
 the algorithms, please cite both the original paper describing the algorithm
-and the Hooge et al. (in press) paper for which the modified versions were
+and the Hooge et al. (2022) paper for which the modified versions were
 developed. Specifically, for each of the algorithms, the following references
 apply (full references are listed below):
 
 |Code directory|Citation|
 |---|---|
-|CDT|Veneri et al. (2011); Hooge et al. (in press)|
-|HC2013|Hooge & Camps (2013); Hooge et al. (in press)|
-|I2MC|Hessels et al. (2016); Hooge et al. (in press)|
-|I2MW|Hooge et al. (in press)|
-|KF|Komogortsev et al. (2010); Hooge et al. (in press)|
-|MST|Komogortsev et al. (2010); Hooge et al. (in press)|
-|NH2010|Nyström & Holmqvist (2010); Hooge et al. (in press)|
+|CDT|Veneri et al. (2011); Hooge et al. (2022)|
+|HC2013|Hooge & Camps (2013); Hooge et al. (2022)|
+|I2MC|Hessels et al. (2016); Hooge et al. (2022)|
+|I2MW|Hooge et al. (2022)|
+|KF|Komogortsev et al. (2010); Hooge et al. (2022)|
+|MST|Komogortsev et al. (2010); Hooge et al. (2022)|
+|NH2010|Nyström & Holmqvist (2010); Hooge et al. (2022)|
 
 For more information or questions, e-mail: i.hooge@uu.nl /
 dcnieho@gmail.com. The latest version of this repository is available
@@ -36,12 +36,12 @@ license.
 Tested on MATLAB R2016b & R2021a
 
 ## Version History
-N.B.: complete details of changes made is available on [github](https://github.com/dcnieho/HoogeetalSelectionRules)
+N.B.: complete details of changes made is available on [github](https://github.com/dcnieho/HoogeetalSelectionRules).
 ### Version 1.0
 - Initial release.
 
 ## References
-Hooge, I.T.C., Niehorster, D.C., Nyström, M., Andersson, R. & Hessels, R.S. (in press). Fixation classification: how to merge and select fixation candidates. Behavior Research Methods
+Hooge, I.T.C., Niehorster, D.C., Nyström, M., Andersson, R. & Hessels, R.S. (2022). Fixation classification: how to merge and select fixation candidates. Behavior Research Methods. https://doi.org/10.3758/s13428-021-01723-1
 
 Hessels, R. S., Niehorster, D. C., Kemner, C., & Hooge, I. T. C. (2016). Noise-robust fixation detection in eye movement data: Identification by two-means clustering (I2MC). Behavior Research Methods, pp 1-22. https://doi.org/10.3758/s13428-016-0822-1.
 
@@ -60,7 +60,7 @@ By downloading this data set, you expressly agree to the following conditions of
 
 ### A. Conditions of Release
 Code is available by permission of the authors. Use of code in publications or for the preparation of publications, either digital or hardcopy, must be cited as follows: 
-Hooge, I.T.C., Niehorster, D.C., Nyström, M., Andersson, R. & Hessels, R.S. (in press). Fixation classification: how to merge and select fixation candidates. Behavior Research Methods.
+Hooge, I.T.C., Niehorster, D.C., Nyström, M., Andersson, R. & Hessels, R.S. (2022). Fixation classification: how to merge and select fixation candidates. Behavior Research Methods. https://doi.org/10.3758/s13428-021-01723-1
 Furthermore, you must also cite the original paper in which the code was presented, if applicable. Refer to the table above for which references apply to particular code.
 
 ### B. Disclaimer of Liability

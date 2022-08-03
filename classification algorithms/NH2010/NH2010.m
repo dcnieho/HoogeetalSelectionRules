@@ -1,10 +1,11 @@
 % This is a stripped and modified version of the I2MC algorithm, as used
 % for Hooge, I.T.C., Niehorster, D.C., Nyström, M., Andersson, R. &
-% Hessels, R.S. (in press). Fixation classification: how to merge and
-% select fixation candidates. Behavior Research Methods.
+% Hessels, R.S. (2022). Fixation classification: how to merge and select
+% fixation candidates. Behavior Research Methods.
+% https://doi.org/10.3758/s13428-021-01723-1
 %
 % If you use this code, please cite the original paper Nyström et al.
-% (2010) and the Hooge et al. (in press) paper for which the modified
+% (2010) and the Hooge et al. (2022) paper for which the modified
 % version was developed:
 %
 % Nyström, M., & Holmqvist, K. (2010). An adaptive algorithm for fixation,
@@ -14,8 +15,9 @@
 % and
 % 
 % Hooge, I.T.C., Niehorster, D.C., Nyström, M., Andersson, R. & Hessels,
-% R.S. (in press). Fixation classification: how to merge and select
+% R.S. (2022). Fixation classification: how to merge and select
 % fixation candidates. Behavior Research Methods.
+% https://doi.org/10.3758/s13428-021-01723-1
 
 function episode = NH2010(dat,channel,parameters)
 

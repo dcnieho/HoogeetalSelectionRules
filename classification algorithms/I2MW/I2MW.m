@@ -1,14 +1,16 @@
 % This is the I2MW algorithm, as developed for and used in Hooge, I.T.C.,
-% Niehorster, D.C., Nyström, M., Andersson, R. & Hessels, R.S. (in press).
+% Niehorster, D.C., Nyström, M., Andersson, R. & Hessels, R.S. (2022).
 % Fixation classification: how to merge and select fixation candidates.
 % Behavior Research Methods.
+% https://doi.org/10.3758/s13428-021-01723-1
 %
-% If you use this code, please cite the Hooge et al. (in press) paper for
+% If you use this code, please cite the Hooge et al. (2022) paper for
 % which this algorithm was developed:
 % 
 % Hooge, I.T.C., Niehorster, D.C., Nyström, M., Andersson, R. & Hessels,
-% R.S. (in press). Fixation classification: how to merge and select
+% R.S. (2022). Fixation classification: how to merge and select
 % fixation candidates. Behavior Research Methods.
+% https://doi.org/10.3758/s13428-021-01723-1
 
 function [sac] = I2MW(data,channel,parameters)
 % this algorithm deploys two moving windows at a constant separation over
